@@ -7,9 +7,11 @@ This repo contains a Python program which looks at similarities between a list o
 ## Installation and setup requirements
 This repository includes a Dockerfile to support containerisation.  To create and run the Docker image, you must download Docker on your machine from [here](https://www.docker.com).
 
-Clone the repository locally, navigate to the root and in the terminal/ command line you can build the image using `docker build -t nlp ./`.
+Clone the repository locally, navigate to the root and in the terminal/ command line you can build the image using 
+`docker build -t nlp ./`.
 
-To run the program, enter the following command in the terminal: `docker run nlp`
+To run the program, enter the following command in the terminal: 
+`docker run nlp`
 
 ## Credits
 Developed by Andrew Baker (GitHub: andrewjbaker) as part of the University of 
